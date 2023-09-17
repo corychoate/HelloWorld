@@ -17,6 +17,7 @@ Python is a high-level, versatile programming language known for its readability
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Here is a list of helpful sources
+
 * [Python.org](https://www.python.org/about/gettingstarted/)
 * [Devmountain.com](https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/)
